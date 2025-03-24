@@ -30,7 +30,7 @@
 
 ### Welcome Email Code
 ![Welcome Email Implementation - Part 1](welcomeEmailCode1.png)
-![Welcome Email Implementation - Part 2](welcomeEmailCode12.png)
+![Welcome Email Implementation - Part 2](welcomeEmailCode2.png)
 
 ### Login Alert Code
 ![Login Alert Implementation - Part 1](loginAlertCode1.png)
